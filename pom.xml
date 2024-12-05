@@ -52,7 +52,7 @@
 		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-http</artifactId>
-			<version>9.2.19.v20160908</version>
+			<version>9.4.48.v20220622</version>
 			<scope>compile</scope>
 			<exclusions/>
 		</dependency>
